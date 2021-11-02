@@ -16,5 +16,3 @@ Features of this Ecommerce Website
 - Cart Page
 - Responsive Login Page
 - Responsive SignUp Page
-- Download images here if you want to code along
-- Video Of Ecommerce Website
